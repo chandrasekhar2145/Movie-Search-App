@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.movie-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-card {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+}
